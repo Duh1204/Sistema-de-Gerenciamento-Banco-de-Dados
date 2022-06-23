@@ -14,7 +14,7 @@ Código de importação:
 
 ![codigo 3](https://user-images.githubusercontent.com/96741532/175383537-507ae814-a052-4b76-bbd6-a99f38d20b9d.png)
 
-Código de exprtação:
+Código de exportação:
 ![codigo 2](https://user-images.githubusercontent.com/96741532/175383655-d70d6c44-8fd8-45a4-9f43-fc92bf43d059.png)
 
 ![codigo1](https://user-images.githubusercontent.com/96741532/175383661-c7eeaf49-08c9-437f-866b-808653c05403.png)
